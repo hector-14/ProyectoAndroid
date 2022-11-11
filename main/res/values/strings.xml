@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">p2.HMRM.M0125</string>
+    <string name="tilulo">Proyecto</string>
+    <string name="titulo2">Información</string>
+    <string name="titulo3">Guardar</string>
+    <string name="titulo4">Eliminar</string>
+    <string name="titulo5">Actualizar</string>
+    <string name="encabezaso1">Matricula</string>
+    <string name="encabezado2">Edad</string>
+    <string name="encabezado3">Nombre</string>
+    <string name="encabezado4">Semestre</string>
+    <string name="encabezado5">Promedio</string>
+    <string name="encabezado6">Estado</string>
+    <string name="plane1">Nombre</string>
+    <string name="plane2">Matricula</string>
+    <string name="plane3">Edad</string>
+    <string name="plane4">Promedio</string>
+    <string name="plane5">Semestre</string>
+    <string name="plane6">Estado</string>
+    <string name="bnt1">Eliminar</string>
+    <string name="btn2">Guardar</string>
+    <string name="btn3">Actualizar</string>
+    <string name="btn4">Cancelar</string>
+
+</resources>
